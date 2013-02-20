@@ -22,7 +22,7 @@
     "namp": "~0.2.25",
     "markdown_conrefs": "~1.2.17",
     "functional-docs": "~0.1.17",
-    "argparse"    : "~0.1.8",
+    "argparse"    : "0.1.8",
     "minimatch"   : "~0.2.9",
     "fs-tools"     : "~0.2.6"
   },
